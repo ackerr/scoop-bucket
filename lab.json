@@ -1,19 +1,19 @@
 {
-    "version": "0.2.11",
+    "version": "0.2.12",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Ackerr/lab/releases/download/v0.2.11/lab_Windows_i386.tar.gz",
+            "url": "https://github.com/Ackerr/lab/releases/download/v0.2.12/lab_Windows_i386.tar.gz",
             "bin": [
                 "lab.exe"
             ],
-            "hash": "10d12fdee6f9dd39a8c8e1ae491e0de3e38193053efc6d51ac7d0d3ca4a0e6da"
+            "hash": "234a9142e769bebd223c13ba3f26e637852f0fa50b5103c76c0891e646382e4b"
         },
         "64bit": {
-            "url": "https://github.com/Ackerr/lab/releases/download/v0.2.11/lab_Windows_x86_64.tar.gz",
+            "url": "https://github.com/Ackerr/lab/releases/download/v0.2.12/lab_Windows_x86_64.tar.gz",
             "bin": [
                 "lab.exe"
             ],
-            "hash": "ac8e74c0cf9f198cb0b4eda74f1e9ef5d431aa00f822edaeb2a7b210bf11e6cb"
+            "hash": "bd8c97573e4d48ddc1c85ea0dd09a3b64c270dfbff3982e1b1d3001e0262197c"
         }
     },
     "homepage": "https://github.com/Ackerr/lab",
